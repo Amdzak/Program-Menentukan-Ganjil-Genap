@@ -17,7 +17,7 @@ public class ProgramGanjilGenap {
         
         //INPUT USER
         System.out.println("Program menetukan bilangan ganjil genap");
-        System.out.print("Masukan bilangan ' ");
+        System.out.print("Masukan bilangan : ");
         bilangan = input.nextInt();
         
         //IF ELSE PENCARIAN BILANGAN GANJIL GENAP
